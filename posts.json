@@ -1,7 +1,18 @@
 [
   {
+    "slug": "codigo-analise-de-tensoes-em-trelicas-planas-cloud-1-1783097147567",
+    "title": "código Análise de Tensões em Treliças Planas cloud (1)",
+    "description": "",
+    "folder": "atividade-escolher-e-entregar-1-dos-dois-problemas-de-engenharia-propostos",
+    "filename": "codigo-analise-de-tensoes-em-trelicas-planas-cloud-1-1783097147567.pdf",
+    "ext": "pdf",
+    "size": 181919,
+    "tags": [],
+    "date": "2026-07-03T16:45:50.941Z"
+  },
+  {
     "slug": "avaliacao-dos-codigos-das-llms-pelo-chatgpt-1-1783097068677",
-    "title": "avaliacão dos códigos das llms pelo chatgpt (1)",
+    "title": "avaliacÃ£o dos cÃ³digos das llms pelo chatgpt (1)",
     "description": "",
     "folder": "atividade-escolher-e-entregar-1-dos-dois-problemas-de-engenharia-propostos",
     "filename": "avaliacao-dos-codigos-das-llms-pelo-chatgpt-1-1783097068677.pdf",
@@ -45,7 +56,7 @@
   },
   {
     "slug": "grafico-dos-codigos-originais-vs-otimizados-1783096574354",
-    "title": "grafico dos códigos originais vs otimizados",
+    "title": "grafico dos cÃ³digos originais vs otimizados",
     "description": "",
     "folder": "atividade-entregar-o-outro-dos-dois-problemas-de-engenharia-propostos-da-aula-passada",
     "filename": "grafico-dos-codigos-originais-vs-otimizados-1783096574354.png",
@@ -56,7 +67,7 @@
   },
   {
     "slug": "codigo-de-agua-cloude-1783096495146",
-    "title": "código de água cloude",
+    "title": "cÃ³digo de Ã¡gua cloude",
     "description": "",
     "folder": "atividade-entregar-o-outro-dos-dois-problemas-de-engenharia-propostos-da-aula-passada",
     "filename": "codigo-de-agua-cloude-1783096495146.pdf",
@@ -89,7 +100,7 @@
   },
   {
     "slug": "codigo-agua-gemini-1783095183895",
-    "title": "cÃ³digo Ã¡gua gemini",
+    "title": "cÃÂ³digo ÃÂ¡gua gemini",
     "description": "",
     "folder": "atividade-entregar-o-outro-dos-dois-problemas-de-engenharia-propostos-da-aula-passada",
     "filename": "codigo-agua-gemini-1783095183895.pdf",
@@ -100,7 +111,7 @@
   },
   {
     "slug": "codigo-agua-copilot-1783095118867",
-    "title": "cÃ³digo Ã¡gua copilot",
+    "title": "cÃÂ³digo ÃÂ¡gua copilot",
     "description": "",
     "folder": "atividade-entregar-o-outro-dos-dois-problemas-de-engenharia-propostos-da-aula-passada",
     "filename": "codigo-agua-copilot-1783095118867.pdf",
@@ -122,7 +133,7 @@
   },
   {
     "slug": "codigo-prototipo-1-1783094778202",
-    "title": "cÃ³digo protÃ³tipo (1)",
+    "title": "cÃÂ³digo protÃÂ³tipo (1)",
     "description": "",
     "folder": "escolher-e-resolver-um-problema-de-engenharia",
     "filename": "codigo-prototipo-1-1783094778202.py",
@@ -144,7 +155,7 @@
   },
   {
     "slug": "finalidade-do-codigo-sobre-placas-solares-1783094589941",
-    "title": "finalidade do cÃ³digo sobre placas solares",
+    "title": "finalidade do cÃÂ³digo sobre placas solares",
     "description": "",
     "folder": "escolher-e-resolver-um-problema-de-engenharia",
     "filename": "finalidade-do-codigo-sobre-placas-solares-1783094589941.pdf",
@@ -166,7 +177,7 @@
   },
   {
     "slug": "explicacao-do-codigo-1-1783094421289",
-    "title": "explicaÃ§Ã£o do cÃ³digo (1)",
+    "title": "explicaÃÂ§ÃÂ£o do cÃÂ³digo (1)",
     "description": "",
     "folder": "evolucao-tecnica-da-solucao-desenvolvida-na-atividade-anterior",
     "filename": "explicacao-do-codigo-1-1783094421289.pdf",
@@ -177,7 +188,7 @@
   },
   {
     "slug": "codigo-em-desenvolvimento-1-1783094340381",
-    "title": "cÃ³digo em desenvolvimento (1)",
+    "title": "cÃÂ³digo em desenvolvimento (1)",
     "description": "",
     "folder": "evolucao-tecnica-da-solucao-desenvolvida-na-atividade-anterior",
     "filename": "codigo-em-desenvolvimento-1-1783094340381.py",
@@ -188,7 +199,7 @@
   },
   {
     "slug": "avaliacao-da-entrevista-1-1783094259396",
-    "title": "AvaliaÃ§Ã£o da entrevista (1)",
+    "title": "AvaliaÃÂ§ÃÂ£o da entrevista (1)",
     "description": "",
     "folder": "escreva-um-breve-relato-sincero-sobre-as-entrevistas",
     "filename": "avaliacao-da-entrevista-1-1783094259396.pdf",
@@ -199,7 +210,7 @@
   },
   {
     "slug": "modularizacao-de-codigo-e-avaliacao-de-llms-1-2-1783094196839",
-    "title": "ModularizaÃÂ§ÃÂ£o de CÃÂ³digo e AvaliaÃÂ§ÃÂ£o de LLMs (1) (2)",
+    "title": "ModularizaÃÂÃÂ§ÃÂÃÂ£o de CÃÂÃÂ³digo e AvaliaÃÂÃÂ§ÃÂÃÂ£o de LLMs (1) (2)",
     "description": "",
     "folder": "modularizacao-de-codigo-e-avaliacao-de-llms-em-aula",
     "filename": "modularizacao-de-codigo-e-avaliacao-de-llms-1-2-1783094196839.pdf",
@@ -210,7 +221,7 @@
   },
   {
     "slug": "codigo-cloude-2-1783094134973",
-    "title": "cÃÂÃÂ³digo cloude (2)",
+    "title": "cÃÂÃÂÃÂÃÂ³digo cloude (2)",
     "description": "",
     "folder": "modularizacao-de-codigo-e-avaliacao-de-llms-em-aula",
     "filename": "codigo-cloude-2-1783094134973.py",
@@ -221,7 +232,7 @@
   },
   {
     "slug": "codigo-chatgpt-2-1783094071772",
-    "title": "cÃÂÃÂÃÂÃÂ³digo chatgpt (2)",
+    "title": "cÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³digo chatgpt (2)",
     "description": "",
     "folder": "modularizacao-de-codigo-e-avaliacao-de-llms-em-aula",
     "filename": "codigo-chatgpt-2-1783094071772.py",
@@ -254,7 +265,7 @@
   },
   {
     "slug": "codigo-da-atualizacao-de-eventos-2-1783093799389",
-    "title": "cÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³digo da atualizaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o de eventos (2)",
+    "title": "cÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³digo da atualizaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o de eventos (2)",
     "description": "",
     "folder": "desenvolvimento-assistido-por-ia-para-o-portal-alegrete-org",
     "filename": "codigo-da-atualizacao-de-eventos-2-1783093799389.py",
@@ -276,7 +287,7 @@
   },
   {
     "slug": "kaua-lopes-dos-santos-projeto-final-da-disciplina-portfolio-de-entregas-no-github-io-versao-1-1-1783093654342",
-    "title": "Kaua Lopes dos Santos   Projeto Final da Disciplina  PortfÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³lio de Entregas no GitHub.io (VersÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o 1) (1)",
+    "title": "Kaua Lopes dos Santos   Projeto Final da Disciplina  PortfÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³lio de Entregas no GitHub.io (VersÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o 1) (1)",
     "description": "",
     "folder": "portfolio-de-entregas-no-github-io-versao-1",
     "filename": "kaua-lopes-dos-santos-projeto-final-da-disciplina-portfolio-de-entregas-no-github-io-versao-1-1-1783093654342.pdf",
@@ -287,7 +298,7 @@
   },
   {
     "slug": "kaua-lopes-dos-santos-atividade-em-aula-portfolio-no-github-io-versao-26-03-2026-1-1783093593625",
-    "title": "Kaua Lopes dos Santos   Atividade em Aula  PortfÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³lio no GitHub.io ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ VersÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o 26.03.2026 (1)",
+    "title": "Kaua Lopes dos Santos   Atividade em Aula  PortfÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³lio no GitHub.io ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ VersÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o 26.03.2026 (1)",
     "description": "",
     "folder": "portfolio-no-github-io-versao-26-03-2026",
     "filename": "kaua-lopes-dos-santos-atividade-em-aula-portfolio-no-github-io-versao-26-03-2026-1-1783093593625.pdf",
@@ -309,7 +320,7 @@
   },
   {
     "slug": "avaliacao-por-pares-dos-portfolios-1-1783093402372",
-    "title": "AvaliaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o por Pares dos PortfÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³lios (1)",
+    "title": "AvaliaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o por Pares dos PortfÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³lios (1)",
     "description": "",
     "folder": "avaliacao-por-pares-dos-portfolios",
     "filename": "avaliacao-por-pares-dos-portfolios-1-1783093402372.pdf",
